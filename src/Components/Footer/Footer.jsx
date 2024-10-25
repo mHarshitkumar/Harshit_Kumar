@@ -51,7 +51,7 @@ const Footer = () => {
       </div>
       <hr />
       <div className="footer-bottom">
-        <p className="footer-bottom-left">© 2024 Harshit Kumar. All rights reserved.</p>
+        <p className="footer-bottom-left">© Copyright 2024 Harshit Kumar. All rights reserved.</p>
         <div className="footer-bottom-right">
           <p>Terms of Service</p>
           <p>Privacy Policy</p>
