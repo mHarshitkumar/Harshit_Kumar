@@ -21,6 +21,7 @@
 }
 .logo{
     width: 60px;
+    background-color: #1F0016;
 }
 .nav-connect:hover{
     transform: scale(1.05);
